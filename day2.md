@@ -14,3 +14,6 @@ Eg: print(f"your score is {score}, your height is {}") where score and height wi
 4. modulo is written as a percentage sign -  gives you the remainder after a division.<br/>
 
 Reference:[ https://replit.com/@shrutivohra/band-name-generator-start-1#day2](https://replit.com/@shrutivohra/day-2-start#main.py)
+
+For project day2: tip calculator 
+https://replit.com/@shrutivohra/tip-calculator-start#main.py
